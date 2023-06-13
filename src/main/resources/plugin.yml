@@ -1,0 +1,4 @@
+name: AutoBed
+version: 1.0
+main: me.xavivi.autobed.AutoBed
+api-version: 1.19
