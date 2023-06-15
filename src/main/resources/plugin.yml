@@ -1,4 +1,4 @@
 name: AutoBed
-version: 1.0
+version: '${version}'
 main: me.xavivi.autobed.AutoBed
 api-version: 1.19
